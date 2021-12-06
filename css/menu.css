@@ -154,8 +154,8 @@ div.figures
 }
 div.figures > figure 
 {
-  width: 25%;
-  margin: 0;
+  width: 23%;
+  margin: 10px;
   max-height: 250px;
 }
 div.figures figure img 
